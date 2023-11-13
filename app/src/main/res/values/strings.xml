@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Amal_Regaieg_LSI3_Mesure_Glycemie</string>
+    <string name="title">Mesure de niveau de glycémie</string>
+    <string name="age">Votre age : </string>
+    <string name="question">Est-ce que vous jeunez ?</string>
+    <string name="ValM">Valeur mesurée (en mmol/l)</string>
+    <string name="Consulter">CONSULTER</string>
+    <string name="resultat">Niveau de glycémie : %s</string>
+</resources>
